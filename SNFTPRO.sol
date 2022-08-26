@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at polygonscan.com on 2022-08-15
-*/
-
 pragma solidity >=0.8.16;
 
 abstract contract ERC20Interface {
