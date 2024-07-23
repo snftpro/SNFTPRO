@@ -1,3 +1,10 @@
+we have moved our token SP to a new contract: https://polygonscan.com/token/0xd2e586df315238e01c152eb60f87c8ebcb2d8b70
+So the sale will be on the new token, 
+All old SP token services have been updated to the new Token.
+
+https://x.com/snftpro/status/1813168385376571884
+
+
 pragma solidity >=0.8.16;
 
 abstract contract ERC20Interface {
